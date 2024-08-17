@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is an app which fetches data from an api on data.gov.in and plots graph for the same.
+You just have to click on "Fetch Chart" button on the home screen of the app,
+which will navigate you to the chart screen.
+- GoRouter is used for navigation,
+- and Riverpod is used for state management.
+As explained in the assignment.
