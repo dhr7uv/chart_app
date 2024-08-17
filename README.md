@@ -9,4 +9,5 @@ You just have to click on "Fetch Chart" button on the home screen of the app,
 which will navigate you to the chart screen.
 - GoRouter is used for navigation,
 - and Riverpod is used for state management.
+
 As explained in the assignment.
